@@ -1,0 +1,39 @@
+:root {
+  /*--primary-color-light: 150, 200, 230;*/
+  /*--primary-color: 100, 150, 180;*/
+  /*--primary-color-dark: 50, 100, 130;*/
+  /*--primary-color-superdark: 0, 50, 80;*/
+
+  /*--accent-color-light: 150, 100, 100;*/
+  /*--accent-color: 100, 50, 50;*/
+  /*--accent-color-dark: 50, 0, 0;*/
+
+  /*--info-color-light: 100, 250, 100;*/
+  /*--info-color: 50, 200, 50;*/
+  /*--info-color-dark: 0, 150, 0;*/
+
+  /*--success-color-light: 100, 100, 250;*/
+  /*--success-color: 50, 50, 200;*/
+  /*--success-color-dark: 0, 0, 150;*/
+
+  /*--warn-color-light: 150, 100, 100;*/
+  /*--warn-color: 100, 50, 50;*/
+  /*--warn-color-dark: 50, 0, 0;*/
+
+  /*--error-color-light: 250, 100, 100;*/
+  /*--error-color: 200, 50, 50;*/
+  /*--error-color-dark: 150, 0, 0;*/
+
+  /*--white-color: 250, 250, 250;*/
+  /*--neutral01-color: 210, 210, 210;*/
+  /*--neutral02-color: 170, 170, 170;*/
+  /*--neutral03-color: 130, 130, 130;*/
+  /*--neutral04-color: 90, 90, 90;*/
+  /*--neutral05-color: 50 , 50, 50;*/
+  /*--black-color: 5, 5, 5;*/
+
+  /*--page-background-color: 255, 255, 240;*/
+  /*--card-background-color: 255, 240, 240;*/
+  /*--dividers-color: 230, 230, 210;*/
+}
+
